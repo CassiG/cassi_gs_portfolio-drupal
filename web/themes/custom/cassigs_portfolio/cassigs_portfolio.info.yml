@@ -7,3 +7,14 @@ screenshot: screenshot.png
 
 libararies:
   - core/normalize
+
+regions:
+  header: Header
+  content: Content
+  front: Front Page
+  sidebar_first: Left Sidebar
+  sidebar_right: Right Sidebar 
+  footer: Footer
+  disabled: Disabled
+  page_top: Page Top
+  page_bottom: Page Bottom
