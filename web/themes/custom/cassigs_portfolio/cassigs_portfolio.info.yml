@@ -1,0 +1,9 @@
+name: Cassi Gallagher-Shearer Portfio theme
+type: theme
+description: A custom theme built for a personal portfoli site 
+core: 8.x
+base theme: classy
+screenshot: screenshot.png
+
+libararies:
+  - core/normalize
