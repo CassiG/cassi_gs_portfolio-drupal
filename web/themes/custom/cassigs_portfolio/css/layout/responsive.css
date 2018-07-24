@@ -1,0 +1,5 @@
+@media all and (min-width: 851px) {
+    .layout-container {
+        max-width: 70%;
+    }
+}

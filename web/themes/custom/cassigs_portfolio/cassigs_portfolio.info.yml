@@ -5,15 +5,16 @@ core: 8.x
 base theme: classy
 screenshot: screenshot.png
 
-libararies:
+libraries:
   - core/normalize
+  - cassigs_portfolio/cassigs_portfolio-css
 
 regions:
   header: Header
   content: Content
   front: Front Page
   sidebar_first: Left Sidebar
-  sidebar_right: Right Sidebar 
+  sidebar_second: Right Sidebar 
   footer: Footer
   disabled: Disabled
   page_top: Page Top
