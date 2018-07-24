@@ -2,4 +2,20 @@
     .layout-container {
         max-width: 70%;
     }
+
+    .layout-sidebar-first{
+        float: left;
+        width: 45%;
+        padding: 10px
+    }
+    
+    .layout-sidebar-second{
+        float: right;
+        width: 45%;
+        padding: 10px
+    }
+
+    .region-footer {
+        float: right;
+    }
 }
